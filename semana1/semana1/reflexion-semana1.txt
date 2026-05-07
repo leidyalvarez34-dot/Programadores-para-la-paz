@@ -1,0 +1,8 @@
+El uso responsable de la información en internet permite que las personas compartan contenidos de manera ética y confiable.
+La ciudadanía digital nos ayuda a participar en espacios virtuales respetando a los demás y verificando lo que publicamos.
+Cuando usamos internet, debemos revisar las fuentes antes de compartir información para evitar noticias falsas.
+Esto también se relaciona con la organización del trabajo técnico, porque debemos guardar y presentar nuestros archivos de forma clara.
+Herramientas como Git permiten ordenar los documentos y llevar un control de los cambios realizados.
+Además, GitHub facilita compartir el trabajo con otras personas de manera pública y organizada.
+Por eso, usar bien la tecnología implica responsabilidad, orden y compromiso.
+En conclusión, la ciudadanía digital y el uso de Git ayudan a trabajar mejor en entornos digitales.
