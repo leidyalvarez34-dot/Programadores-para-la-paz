@@ -1,0 +1,6 @@
+Durante esta actividad aprendí a utilizar comandos básicos de la terminal para interactuar con el sistema operativo.
+Comprendí cómo moverme entre carpetas, crear directorios y generar archivos usando comandos simples.
+También entendí que la terminal permite trabajar de manera más rápida y organizada.
+Los comandos como pwd, ls, cd y mkdir son herramientas fundamentales para administrar archivos y carpetas.
+Además, esta práctica me ayudó a conocer mejor cómo funcionan los sistemas operativos y la organización de proyectos.
+Aprender a usar la terminal es importante para trabajar con programación y herramientas como Git y GitHub.
