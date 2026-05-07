@@ -1,6 +1,8 @@
-Durante esta actividad aprendí a utilizar comandos básicos de la terminal para interactuar con el sistema operativo.
-Comprendí cómo moverme entre carpetas, crear directorios y generar archivos usando comandos simples.
-También entendí que la terminal permite trabajar de manera más rápida y organizada.
-Los comandos como pwd, ls, cd y mkdir son herramientas fundamentales para administrar archivos y carpetas.
-Además, esta práctica me ayudó a conocer mejor cómo funcionan los sistemas operativos y la organización de proyectos.
-Aprender a usar la terminal es importante para trabajar con programación y herramientas como Git y GitHub.
+Saber usar la terminal es importante para un desarrollador porque le permite navegar rápidamente dentro de un proyecto.
+También ayuda a organizar carpetas y archivos de una manera más eficiente.
+Con la terminal se pueden crear, mover y revisar archivos sin depender siempre de una interfaz gráfica.
+Esto facilita el trabajo cuando se usan herramientas como Git y GitHub.
+Además, permite ejecutar comandos necesarios para guardar y publicar cambios en un repositorio.
+Un desarrollador que domina la terminal puede trabajar con mayor orden y rapidez.
+También puede entender mejor la estructura interna de sus proyectos.
+Por eso, aprender estos comandos básicos es una base importante para avanzar en programación.
