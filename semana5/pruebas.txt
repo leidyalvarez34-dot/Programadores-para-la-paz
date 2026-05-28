@@ -1,0 +1,11 @@
+Prueba 1:
+Ruta: http://localhost:3000
+Resultado: Al ingresar a esta ruta aparece el mensaje "Servidor activo". Esto indica que el servidor está funcionando correctamente.
+
+Prueba 2:
+Ruta: http://localhost:3000/saludo
+Resultado: Al ingresar a esta ruta aparece el mensaje "Hola comunidad". Esta ruta permite mostrar un saludo general desde el servidor.
+
+Prueba 3:
+Ruta: http://localhost:3000/mensaje/juan
+Resultado: Al ingresar a esta ruta aparece el mensaje "Hola juan". Esto demuestra que la ruta recibe un parámetro llamado nombre y lo utiliza para responder de forma personalizada.
