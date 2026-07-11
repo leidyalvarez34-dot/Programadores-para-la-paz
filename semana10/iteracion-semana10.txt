@@ -1,0 +1,15 @@
+Las 2 tareas del backlog que haría primero son:
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para revisarlo oportunamente.
+
+Son las más importantes porque permiten iniciar el flujo principal de la plataforma: recibir reportes y avisar al equipo responsable para que pueda hacer seguimiento.
+
+Para mí, una tarea está terminada cuando cumple con una definición básica de terminado.
+
+Definición de terminado:
+
+1. La funcionalidad fue creada y funciona correctamente.
+2. La tarea fue probada con un ejemplo sencillo.
+3. No expone datos personales ni información sensible.
+4. El avance quedó registrado en GitHub.
